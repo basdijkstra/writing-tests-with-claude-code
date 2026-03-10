@@ -106,6 +106,10 @@
 					<targetTests>
 						<param>com.ontestautomation.mutationbank.*</param>
 					</targetTests>
+					<outputFormats>
+						<outputFormat>XML</outputFormat>
+						<outputFormat>HTML</outputFormat>
+					</outputFormats>
 				</configuration>
 			</plugin>
 		</plugins>
